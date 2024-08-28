@@ -20,6 +20,7 @@
 20. Promise .all .allSettled .race .any
 21. fn statement & expression
 22. fcp cls
+23. Dheeraj Edited this.
 
 https://deepak-sharma-1.gitbook.io/javascript-sessions/sessions/selecting-and-traversing-elements
 
