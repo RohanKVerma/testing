@@ -1,0 +1,24 @@
+1. GitHub session from Zoho
+2. modules use strict mode by default
+3. import and export have 2 types: named & default
+4. IPC- Inter process communication
+5. diff b/w parallel, asynchronous, concurrent
+6. fetch(). promise(),XMLhttpRequest
+7. JS=Runtime environment + engine
+8. Communication between software = API
+9. Hoisting
+10. Scope chaining
+11. closure function-save the state(flexible environment)
+12. eventloop model
+13. Macrotask, microtask
+14. callback()
+15. event deligation
+16. import librabies
+17. target & current target
+18. Event interface
+19. Event target
+20. Promise .all .allSettled .race .any
+21. fn statement & expression
+22. fcp cls
+
+https://deepak-sharma-1.gitbook.io/javascript-sessions/sessions/selecting-and-traversing-elements
